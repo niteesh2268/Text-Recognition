@@ -20,3 +20,9 @@ ii)Text Recognition: extracting words from the bounding boxes <br />
 
     In this part we would extract the words from the regions that were identified by the text detection module.  
     The regions would contain a single word and this module would extract the word from that region. 
+    
+  Dataset :
+  ICDAR 2017 dataset
+  https://drive.google.com/open?id=1Z6Qxr-q-F54iYB2G1AyoDymBh64f5REZ
+  428 real images with annotations
+  ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
