@@ -23,7 +23,7 @@ ii)Text Recognition: extracting words from the bounding boxes <br />
     
   Dataset : <br />
   ICDAR 2017 dataset <br />
-  https://drive.google.com/open?id=1Z6Qxr-q-F54iYB2G1AyoDymBh64f5REZ
+  https://drive.google.com/open?id=1Z6Qxr-q-F54iYB2G1AyoDymBh64f5REZ <br />
   428 real images with annotations <br />
   ![alt text](https://github.com/niteesh2268/Text-Recognition/blob/master/1.png?raw=true) <br />'
   ![alt text](https://github.com/niteesh2268/Text-Recognition/blob/master/2.png?raw=true) <br />
